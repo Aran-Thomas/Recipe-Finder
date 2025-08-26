@@ -76,24 +76,6 @@ recipe-finder/
 └── README.md           # Project documentation
 ```
 
-## Features in Detail
-
-### Search Functionality
-- Real-time search with loading indicators
-- Error handling for network issues
-- Empty state messages for no results
-
-### Modal System
-- Responsive modal overlay
-- Detailed recipe information display
-- Click-outside-to-close functionality
-- Smooth animations and transitions
-
-### Responsive Design
-- Mobile-first approach
-- CSS Grid for recipe cards layout
-- Flexible typography and spacing
-- Touch-friendly interface elements
 
 ## Browser Support
 
@@ -102,38 +84,9 @@ recipe-finder/
 - Safari 12+
 - Edge 79+
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## Possible Enhancements
-
-- [ ] Add recipe favorites functionality
-- [ ] Implement recipe categories filter
-- [ ] Add nutrition information display
-- [ ] Create recipe sharing feature
-- [ ] Add dark mode toggle
-- [ ] Implement recipe rating system
-- [ ] Add print recipe functionality
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [TheMealDB](https://www.themealdb.com/) for providing the free recipe API
 - [Google Fonts](https://fonts.google.com/) for the Poppins font family
 - Icons and inspiration from various open-source projects
 
-## Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/recipe-finder](https://github.com/yourusername/recipe-finder)
